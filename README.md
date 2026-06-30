@@ -6,4 +6,4 @@ Project deliverables :
 2. Which customer segments (plan type, tenure, usage level, acquisition channel) churn most?
 3. What's the revenue impact of churn vs new acquisition (are we leaking more than we're gaining)?
 4. What early warning signals predict churn (usage drop-off, support tickets, etc.)?
-5. What should we do about it — which 2-3 interventions would have the highest ROI?
+5. What should we do about it, which 2-3 interventions would have the highest ROI?
